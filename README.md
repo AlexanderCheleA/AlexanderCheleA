@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Alexander Chele Alvia
 <p>
-  <img width="25%" alt="sunset gif" align='right' src="https://raw.githubusercontent.com/AlexanderCheleA/AlexanderCheleA/main/assets/pantalla.gif"/>
+  <img width="26%" alt="sunset gif" align='right' src="https://raw.githubusercontent.com/AlexanderCheleA/AlexanderCheleA/main/assets/pantalla.gif"/>
 </p>
 
 #### I am an information technology engineer from Ecuador.
@@ -22,19 +22,13 @@ const Alexander={
 
 ## 💻 I'm currently ...
 <p>
-  <img width="11%" alt="sunset gif" align='left' src="https://raw.githubusercontent.com/AlexanderCheleA/AlexanderCheleA/main/assets/hi.gif"/>
+  <img width="15%" alt="sunset gif" align='left' src="https://raw.githubusercontent.com/AlexanderCheleA/AlexanderCheleA/main/assets/hi.gif"/>
 </p>
 
  - 🏮 Independent Coding and Release Projects from my personal website.
  - 🌱 Learning and improving programming skills. 
  - 🎮 Playing Thetan Arena 🤖 and Free Fire ⚔
-
-<br>
-
-## 💬 My hobbies:
-  - 📚 Read
-  - 💫  Watch Anime
-  - 🎨 Draw
+ - 💬 My hobbies: - 📚 Read - 💫  Watch Anime - 🎨 Draw
 
 <!---
 AlexanderCheleA/AlexanderCheleA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.![pantalla](https://user-images.githubusercontent.com/96551054/147182602-c213177e-049f-47fa-bd59-79a167c9bf3f.gif)
