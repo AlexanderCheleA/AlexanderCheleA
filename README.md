@@ -9,9 +9,9 @@
 
 ```javascript
 const Alexander={
-    pronouns: "He" | "H",
+    pronouns: "He" | "Him",
     code: [C++, Java, JavaFX, Javascript, HTML, Css, Php, SQL, Python, R],
-    tools: [Angular, Arduino, Firebase, Netbeans, MySQL, PostgreSQL, SQLite, WordPress],
+    tools: [Angular, Arduino, Firebase, MySQL, PostgreSQL, SQLite, WordPress],
     areas: [
               "Web development", "Mobile development", 
               "Desktop application development",
